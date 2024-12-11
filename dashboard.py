@@ -25,7 +25,7 @@ def load_data():
 
 def create_dashboard():
     st.set_page_config(page_title="2025 Data Positions", layout="wide")
-    st.title('2025 Data Positions Dashboard')
+    st.title('2025 Data Positions Dashboard (Made by Abylay Iskakov)')
 
     df = load_data()
     if df.empty:
