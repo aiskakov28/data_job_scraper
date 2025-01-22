@@ -1,5 +1,7 @@
 internship,company,location
+Financial Data Science Intern,Northwestern Mutual,"Milwaukee, WI"
 Data Engineering Intern,iCapital Network,NYC
+Data Science Intern,First American,"Orange, CA"
 Data and Analytics Intern,USAA,"San Antonio, TX"
 Operations Data Analyst Intern,Jabil,"Tampa, FL</br>St. Petersburg, FL"
 Intern – Machine Learning Research Scientist,Samsung,"San Jose, CA"
@@ -14,7 +16,7 @@ Data Analytics Intern,Owens Minor,"Richmond, VA"
 Business Intelligence Data Analyst Intern,Intuitive Surgical,"Remote in USA</br>Sunnyvale, CA"
 Business Systems Analyst Intern,,"Sunnyvale, CA"
 AI/ML Data Scientist Intern,,"Sunnyvale, CA"
-Data Engineering Intern,,"Brookfield, IL"
+Data Engineering Intern,Ingredion,"Brookfield, IL"
 Banking – Summer Analyst - Strategic Advisory Solutions Group - Data Science - 2026,Citigroup,NYC
 IT Data Intern,American Financial Group,"Cincinnati, OH"
 Data Automation Engineer Intern - IT Services,,"Cincinnati, OH"
@@ -28,13 +30,11 @@ Data Science Intern,Cambridge Mobile Telematics,"Cambridge, MA"
 Data Science Intern,,"Cambridge, MA"
 Business/Product Data Analyst Intern,Trimble,"Westminster, CO"
 Technical Portfolio Analyst – Intern,ServiceNow,"Orlando, FL"
-Data Center Internship,,"Tarrytown, NY"
 Summer Internship Program – Fixed Income Markets Intern - Data Analyst,Intercontinental Exchange,NYC
 Summer Internship Program – Fixed Income Markets Intern - Data Analyst,,NYC
 Data Analyst Intern,Exiger,"McLean, VA"
 Analyst Intern - Delivery/Analytics,,"Richmond, VA"
 Summer Internship Program - Data & Analytics,Dun Bradstreet,"Jacksonville, FL"
-Data Analytics Intern,Breeze Airways,"Cottonwood Heights, UT"
 Investments Quantitative Analyst Intern,Allstate Insurance Company,"Chicago, IL"
 Intern – Data Science,Wealthsimple,Remote in USA
 Software Engineering Summer Analyst/Associate,Tempus,"Chicago, IL"
@@ -109,7 +109,6 @@ Data Science Engineer Intern,Oshkosh,"Hagerstown, MD"
 IT Data Engineer Intern - USA,Pinterest,Remote in USA
 University – Data Scientist Intern,Booz Allen,"Norfolk, VA"
 Software/Data Engineering Internship,Harmonia,"McLean, VA"
-Data Analyst – Internship,SeatGeek,NYC
 Data Science Internship - San Jose,Vectra,"San Jose, CA"
 Data Science Intern - Summer 2025,,"San Francisco, CA"
 "Co-op, Delta Wellness - Data Science (Summer, 2025) 🇺🇸",Delta,"Atlanta, Georgia"
@@ -131,8 +130,10 @@ Data Engineer Intern - Undergraduate - Summer,Centene,Remote in USA
 Intern – Technical Data Analyst,Auto-Owners Insurance,"East Lansing, MI"
 Summer Intern - Data Engineering,,"Stamford, CT"
 Data Analysis Summer 2025 Internship,Jones Lang LaSalle JLL,"Chicago, IL"
+Data Center Internship,,"Tarrytown, NY"
 Data Science Intern,Jabil,Remote in USA
 Intern - Database Analyst - Dba,Intercontinental Exchange,"Atlanta, GA"
+Data Analytics Intern,Breeze Airways,"Cottonwood Heights, UT"
 Data Science Intern,BorgWarner,"Auburn Hills, MI"
 Data Science Intern,StepStone Group,"Orlando, FL"
 Data Science Intern - AI/ML,Jabil,"St. Petersburg, FL"
@@ -316,6 +317,7 @@ Specialty Markets Data Analyst Intern - Summer 2025,Northwestern Mutual,"Milwauk
 IT Data Analytics – 2025 Summer Internship - IL Hybrid,Motorola,"Chicago, IL</br>Hoffman Estates, IL"
 Safety Learnings Data Scientist Intern,Zoox,"San Mateo, CA"
 Engineering Project Analyst Intern - Pey - Bachelor’s degree,Marvell,"Toronto, ON, Canada"
+Data Analyst – Internship,SeatGeek,NYC
 Data Scientist Intern,Leidos,"Arlington, VA"
 Research Scientist Intern,,"McLean, VA"
 Data Engineering – Content Internship/Co-op,Zoox,"San Mateo, CA"
