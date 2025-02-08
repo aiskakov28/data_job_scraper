@@ -4,7 +4,6 @@ Transmission Analyst Intern,New Leaf Energy,"Boston, MA</br>Lowell, MA"
 Data Scientist Intern,Cardiosense,"Chicago, IL"
 Data Science Intern,BorgWarner,"Auburn Hills, MI"
 Data Scientist Intern,Booz Allen,"Rome, NY"
-Data Analytics Undergraduate Intern,PNC Financial Services,"Pittsburgh, PA"
 Business Intelligence Analyst and Developer Intern,Jabil,"St. Petersburg, FL"
 Crypto Data Analyst Intern,Blockhouse,NYC
 Data Analyst Intern – Co-op/Internship - Business Banking,Bank of Montreal,"Toronto, ON, Canada"
@@ -35,7 +34,6 @@ SAP iXp Intern - CX Data & AI Software Developer,SAP,"San Francisco, CA"
 Data Engineering Intern - Administration,Netflix,"LA</br>Los Gatos, CA"
 AI Engineering/Data Science Intern,BambooHR,Utah
 Reference Data Engineering Intern,Addepar,"Edinburgh, UK"
-Data Platform Intern,,"Edinburgh, UK"
 Thrive Apprentice - Software Engineering - Analyst Operations Support,Verizon Communications,"Berkeley Heights, NJ"
 Thrive Apprentice - Data Analytics - AI Science,,"Irving, TX"
 Thrive Apprentice - Software Engineering - Engineer Data Scientist,,"Irving, TX"
@@ -75,7 +73,7 @@ Analyst Intern - Delivery/Analytics,,"Richmond, VA"
 Summer Internship Program - Data & Analytics,Dun Bradstreet,"Jacksonville, FL"
 Software Engineering Summer Analyst/Associate,Tempus,"Chicago, IL"
 Data Science Intern - Summer 2025,Lenovo,"Morrisville, NC"
-Intern – Data Management,,NYC
+Intern – Data Management,SageSure,NYC
 Intern – Data Science,,NYC
 Summer 2025 Data Science Intern,WhatNot,Remote in USA</br>Remote in Canada
 Software Engineering Summer Analyst - Testing Pipeline,Tempus,"Chicago, IL"
@@ -84,6 +82,7 @@ Data Science Co-Op,Live Ramp,SF
 Forecasting Capabilities and Data Science Intern,MSD,"Linden, NJ"
 2025 University Recruiting - Data Science Intern,Merck,"Rahway, NJ"
 Data Analyst Intern/Co-Op,AMD,"Austin, TX"
+Data Governance Intern,Jabil,"St. Petersburg, FL"
 Data Science & Machine Learning Intern,Insitro,"San Bruno, CA"
 "Engineering and Data Internships, Summer 2025",Shopify,Remote in Canada
 Data Science Intern- Summer 2025,ABB,"Cary, NC"
@@ -92,7 +91,6 @@ Spectroscopy Data Scientist Intern,HRL Laboratories,"Malibu, CA"
 Data Visualization Engineer Intern,Netflix,"Los Angeles, CA</br>Los Gatos, CA"
 Test Bench and Data Analysis Engineer Intern,Zoox,"San Mateo, CA"
 SEAL Research Scientist Intern,Scale AI,SF</br>NYC
-2025 Sector Data Analyst Summer Intern,Schonfeld,NYC
 Implementation Analyst Intern,Harris Computer,"South Carolina</br>Atlanta, GA"
 HUB International Internship Program Data Enablement Summer 2025,HUB,"Chicago, IL"
 "Software Engineering Intern, Data Fabric 🛂",GE Vernova,"Bothell, WA"
@@ -118,8 +116,8 @@ Software Engineer Intern (Database Engineering),Snowflake,"Bellevue, Washington"
 IT Data Engineer Intern - USA,Pinterest,Remote in USA
 University – Data Scientist Intern,Booz Allen,"Norfolk, VA"
 Software/Data Engineering Internship,Harmonia,"McLean, VA"
-Data Science Internship - San Jose,Vectra,"San Jose, CA"
 Data Science Intern - Summer 2025,,"San Francisco, CA"
+2025 Data Engineer Intern - NYC,,NYC
 "Co-op, Delta Wellness - Data Science (Summer, 2025) 🇺🇸",Delta,"Atlanta, Georgia"
 Vantage Data Centers Intern,Vantage Data Centers,"Ashburn, VA</br>Denver, CO"
 "EDP Intern (Software, Data, Cloud Platform) 🛂",Travelers Insurance,"Hartford CT</br>St. Paul MN</br>Atlanta, GA"
@@ -131,6 +129,8 @@ Data Analytics Intern - Summer 2025 🛂,DriveTime,Texas</br>Arizona
 Software Engineer Intern (Data-TnS-Eng-Biz Arch),TikTok,"Vancouver, Canada"
 Global Technology Analyst Intern,Bank of America,"<details><summary>**8 locations**</summary>Charlotte, NC</br>Chicago, IL</br>Dallas Metro, TX</br>Denver, CO</br>NY Metro</br>Pennington, NJ</br>Richmond, VA</br>Washington, DC</details>"
 Technology Summer Analyst Program,Morgan Stanley,"New York, NY"
+Business Systems Analyst Intern/Co-op,TD Bank,"Toronto, ON, Canada"
+Data Analytics Undergraduate Intern,PNC Financial Services,"Pittsburgh, PA"
 Intern – Data Scientist - Borrow,SoFi,SF
 Data Science Intern,QuantCo,"Boston, MA</br>London, UK</br>SF"
 Summer 2025 Intern - Data Integration Engineering,Western Digital,"San Jose, CA"
@@ -159,6 +159,7 @@ Data Engineering Intern-Summer 2025,Nissan,"Santa Clara, CA"
 Data Analytics Intern,Leidos,"Huntsville, AL"
 Data Engineering Summer 2025 Internship,Jones Lang LaSalle JLL,"Chicago, IL"
 Data Engineer Intern,,"Dallas, TX"
+Data Platform Intern,Addepar,"Edinburgh, UK"
 Database Management Intern,,Remote in USA
 Summer Internship - Alpha Data Services - Techops Analyst,State Street,"Boston, MA"
 Data Engineering Summer 2025 Internship,Jones Lang LaSalle JLL,"Chicago, IL</br>Downers Grove, IL"
@@ -240,7 +241,6 @@ Data Engineer Intern,,Remote in USA
 Data Specialist Intern/Co-op,,"Toronto, ON, Canada</br>Kitchener, ON, Canada"
 Data Analyst Intern/Co-op,,"Montreal, QC, Canada</br>Toronto, ON, Canada</br>Kitchener, ON, Canada"
 Data Science Intern,Leidos,Remote in USA
-Data Governance Intern,Jabil,"St. Petersburg, FL"
 Marketing Intern - Data Analytics,Auctane,"Austin, TX"
 Intern - Data Analyst,Salesforce,"Dallas, TX</br>Atlanta, GA"
 Data Science & Modeling Intern - Early Careers,SP Global,Remote in USA
@@ -288,6 +288,7 @@ ML Research Engineer Internship - Smollms pretraining and datasets,Hugging Face,
 Data Science Intern - Summer 2025 - Remote,Crowdstrike,Remote in UK
 2025 Intern - Data Science,Adobe,"San Jose, CA"
 Data Analyst Intern,Skylo Technologies,"Mountain View, CA"
+2025 Sector Data Analyst Summer Intern,Schonfeld,NYC
 AI Powered Data & Analytics IT ADI – 2025 Summer Internship,Motorola,"Chicago, IL"
 2025 Summer Internship-Data Science,Baxter International,"Johnsburg, IL"
 Quantitative Investment Analyst Intern,,"Kansas City, MO"
@@ -408,13 +409,13 @@ Research Scientist Intern,,"McLean, VA"
 Data Engineering – Content Internship/Co-op,Zoox,"San Mateo, CA"
 Data Science – & Analytics Internship - Engineering - Summer 2025,,"Palo Alto, CA"
 Data Science Intern,Nutanix,"San Jose, CA"
-Data Science Internship - Boston - MA,Vectra,"Boston, MA"
+Data Science Internship - San Jose,Vectra,"San Jose, CA"
+Data Science Internship - Boston - MA,,"Boston, MA"
 Data Science – Analytics Intern - 2025 - Seattle,,"Seattle, WA"
 Data Analyst Intern,Trimble,"Dayton, OH"
 Data & Analytics Apprentice,Prosek Partners,NYC
 Supply Chain Data Analyst Internship 2025,Motorola,"Chicago, IL"
 Data Science Intern,,"Aurora, CO</br>Chantilly, VA"
-2025 Data Engineer Intern - NYC,Galaxy,NYC
 Intern – Data Developer,Autodesk,"Toronto, ON, Canada"
 Summer 2025 Intern - Business Insights Analyst,Salesforce,"<details><summary>**6 locations**</summary>Seattle, WA</br>Indianapolis, IN</br>SF</br>Bellevue, WA</br>Atlanta, GA</br>Burlington, MA</details>"
 Data Analyst Intern - Investments - Summer 2025 🛂,Thrivent,"Minneapolis, MN"
