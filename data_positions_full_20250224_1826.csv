@@ -1,22 +1,17 @@
 title,company,location,url,application_url,date_posted
 Internship - Accounting Data Analytics,Clayton,"Maryville, TN",,https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Maryville-TN/Internship----Accounting-Data-Analytics_JR118791-1,2025-02-24
-Data Science and Analytics Intern,Skechers,,,https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Manhattan-Beach-CA/Data-Science-and-Analytics-Intern--Summer-2025-_JR114066-1,2025-02-24
-Data Analytics Intern,Jet Support Services,"Chicago, IL",,https://jobs.lever.co/jetsupport/7ad6bdfc-82c1-41f0-85b7-149a5fbf3f7d/apply,2025-02-24
 Data Scientist Co-op,Wayfair,"Boston, MA",,https://www.wayfair.com/careers/jobs/7870094002,2025-02-24
 Data Analyst – Intern - Samsung Product Management - Services,,"Plano, TX",,https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Data-Analyst--Intern----Samsung-Product-Management--Services-_R100636,2025-02-24
 Summer Intern - AI Analyst,,"Plano, TX",,https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern--AI-Analyst_R100918,2025-02-24
 Data Strategy Analytics Engineering Co-op - College Program 2025,,NYC,,https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Data-Strategy-Analytics-Engineering-Co-op---NY---College-Program-2025_R_298260-1,2025-02-24
 Data Strategy Software Engineering Co-op - College Program 2025,,NYC,,https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Data-Strategy-Software-Engineering-Co-op---NY---College-Program-2025_R_298259-1,2025-02-24
 "Software Analyst Intern - C, C++, Python",Hitachi Rail,"Toronto, Canada",,https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern---C--C----Python--4-or-8-months-_R1008436,2025-02-24
-Data Science Intern,Exact Sciences,"Madison, WI",,https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Data-Science-Intern_R24-7097,2025-02-24
 Corporate Strategy Intern - Data Science,Applied Materials,"Santa Clara, CA",,https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Corporate-Strategy-Intern---Data-Science_R2511392,2025-02-24
 Data Engineer Intern,Roku,"Cambridge, UK",,https://www.weareroku.com/jobs/6645094,2025-02-24
-Data Analyst Intern,Oshkosh,"Oshkosh, WI",,https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Analyst-Intern_R35754-1,2025-02-24
 Data Science Intern,Legend Biotech,"Bridgewater Township, NJ",,https://job-boards.greenhouse.io/legendcareers/jobs/4531237005,2025-02-24
 Analytical Data Science – CMC Intern,,"Somerset County, NJ",,https://job-boards.greenhouse.io/legendcareers/jobs/4531331005,2025-02-24
 Data Privacy Intern,Hewlett Packard HP,"Vancouver, WA",,https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Data-Privacy-Intern_UNI1536-1,2025-02-24
 Data Center Infrastructure Intern,Ensono,Remote in USA,,https://ensono.com/company/careers/jobs-board/,2025-02-24
-Capacity & Data Analytics Intern,,Remote in USA,,https://ensono.com/company/careers/jobs-board/,2025-02-24
 Reliability Data Intern,Zoox,"San Mateo, CA",,https://jobs.lever.co/zoox/3f3e290e-15fa-444a-9c67-1ac49c793e9d/apply,2025-02-24
 Data Scientist Intern,CompanyCam,"Lincoln, NE",,https://companycam.com/job,2025-02-24
 Data Analytics – Intern - AI & Operations,Samsung,"Plano, TX",,https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Data-Analytics--AI---Operations--Intern_R100612,2025-02-24
@@ -118,7 +113,12 @@ Data Science Intern,,"San Carlos, CA",,https://boards.greenhouse.io/moloco/jobs/
 Software Engineer Intern (Data-TnS-Eng-Biz Arch),TikTok,"Vancouver, Canada",,https://careers.tiktok.com/position/7397158652886763814/detail?spread=5MWH5CQ&utm_source=Simplify&ref=Simplify,2025-02-24
 Global Technology Analyst Intern,Bank of America,"<details><summary>**8 locations**</summary>Charlotte, NC</br>Chicago, IL</br>Dallas Metro, TX</br>Denver, CO</br>NY Metro</br>Pennington, NJ</br>Richmond, VA</br>Washington, DC</details>",,https://campus.bankofamerica.com/careers/global_technology_summer_analyst_program__2025.html,2025-02-24
 Technology Summer Analyst Program,Morgan Stanley,"New York, NY",,https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-53fdfbaf0394/candidate/so/pm/1/pl/1/opp/17297-2025-Technology-Summer-Analyst-Program-New-York/en-GB,2025-02-24
+Data Science and Analytics Intern,Skechers,,,,2025-02-24
+Data Analytics Intern,Jet Support Services,"Chicago, IL",,,2025-02-24
+Data Science Intern,Exact Sciences,"Madison, WI",,,2025-02-24
 Business Intelligence Analyst Internship,Brooks Automation,"Lowell, MA",,,2025-02-24
+Data Analyst Intern,Oshkosh,"Oshkosh, WI",,,2025-02-24
+Capacity & Data Analytics Intern,Ensono,Remote in USA,,,2025-02-24
 Data Scientist Intern,Capital One,"Toronto, ON, Canada",,,2025-02-24
 Promotions Analyst Intern,Samsung,"Plano, TX",,,2025-02-24
 AI Analyst Intern,,"Plano, TX",,,2025-02-24
@@ -126,7 +126,7 @@ AI Analyst Intern,,"Plano, TX",,,2025-02-24
 Data Science Summer Intern,Muon Space,Remote in USA,,,2025-02-24
 Data Product Engineer Intern,COTA,Remote in USA,,,2025-02-24
 Data Science Intern – Graduate - Summer,Centene,Remote in USA,,,2025-02-24
-Tapeout Engineering Biz Apps & Data Intern,GlobalFoundries,"Austin, TX",,,2025-02-24
+Tapeout Engineering Biz Apps & Data Intern,,"Austin, TX",,,2025-02-24
 Summer Internship 2025 - Data Engineering,,"Mountain View, CA",,,2025-02-24
 IT Business Data Analyst Intern,,"Phoenix, AZ",,,2025-02-24
 2025 Intern Database Administration,Northrop Grumman,"Wright-Patterson AFB, OH",,,2025-02-24
