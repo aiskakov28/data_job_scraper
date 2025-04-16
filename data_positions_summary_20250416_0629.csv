@@ -1,5 +1,6 @@
 internship,company,location
 Intern – Data Analytics,International Flavors Fragrances,"Matawan, NJ"
+Data Science Intern - Summer,BorgWarner,"Auburn Hills, MI"
 IT – Intern - MS365/Data Management,American Cancer Society,"<details><summary>**4 locations**</summary>Harrisburg, PA</br>Hartford, CT</br>NYC</br>Atlanta, GA</details>"
 Data Intern,GP Fund Solutions,"Latham, NY"
 Internship - Data Engineer - Electronic Devices,Tesla,"Palo Alto, CA"
@@ -29,7 +30,6 @@ Data Science Analyst – Intern,Tatari,NYC
 Data Science Analyst – Intern,,LA
 Data Science Analyst – Intern,,SF
 Data Analyst Intern,Guidewire,"Philadelphia, PA"
-Data Analytics Intern,Chime,SF
 Software Engineer Intern - Recommendation Infra - Data-Arch-Tiktok US - 2025 Summer - BS/MS,ByteDance,"San Jose, CA"
 Database Engineering Intern,Skechers,"El Segundo, CA"
 Software Engineer Intern - Recommendation Infra - Data-Arch-Tiktok US - 2025 Summer - BS/MS,ByteDance,"Seattle, WA"
@@ -84,7 +84,7 @@ Data and AI Intern 🛂,IBM,"New York, NY"
 Software Engineer Intern (Database Engineering),Snowflake,"Bellevue, Washington"
 2025 Summer Data Analyst/Information Systems Intern 🛂,Hitachi Energy,"Raleigh, NC"
 Software/Data Engineering Internship,Harmonia,"McLean, VA"
-Data Science – Analytics Intern - 2025 - Seattle,,"Seattle, WA"
+Data Science – Analytics Intern - 2025 - Seattle,Expedia,"Seattle, WA"
 Data Science Intern - Summer 2025,,"San Francisco, CA"
 "Co-op, Delta Wellness - Data Science (Summer, 2025) 🇺🇸",Delta,"Atlanta, Georgia"
 Vantage Data Centers Intern,Vantage Data Centers,"Ashburn, VA</br>Denver, CO"
@@ -132,6 +132,7 @@ Data Engineering Coop,Cirkul,"Belmont, MA"
 Tapeout Engineering Biz Apps & Data Intern,GlobalFoundries,"Austin, TX"
 Data Analytics Intern,Artisan Partners,"Milwaukee, WI"
 Business Systems Analyst Co-op,Sarepta,Remote in USA
+Data Analytics Intern,Chime,SF
 Data Analyst Intern,Atlas Energy Solutions,"Austin, TX"
 Data Analytics Intern,,"Moonachie, NJ"
 Data Science Intern,Block,"Toronto, ON, Canada"
