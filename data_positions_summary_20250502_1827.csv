@@ -1,14 +1,12 @@
 internship,company,location
 Internship - Data Engineer - Applications Engineering,,"Fremont, CA"
 Data Engineering Intern,Kalderos,"Boston, MA"
-IT – Intern - MS365/Data Management,American Cancer Society,"<details><summary>**4 locations**</summary>Harrisburg, PA</br>Hartford, CT</br>NYC</br>Atlanta, GA</details>"
 Data Engineer Intern,Primerica,"Duluth, GA"
 Data Intern,Definitive Healthcare,"Framingham, MA"
 Data Intelligence Intern,Actian,Remote in USA
 Software Engineer Intern - Recommendation Infra - Data-Arch-Tiktok US - 2025 Summer - BS/MS,ByteDance,"San Jose, CA"
 Applied Scientist Intern - Computational Modeling & Optimization - System Technologies and Engineering - BS/MS,ByteDance,"San Jose, CA"
 Data Marketing Engineer Intern,Gesture,NYC
-Data Engineering Intern,Trepp,"Dallas, TX"
 Data Warehouse Intern,,United States
 "Intern, AI Research Scientist",Autodesk,"Toronto, ON, CA"
 SAP iXp Intern - CX Data & AI Software Developer,SAP,"San Francisco, CA"
@@ -20,6 +18,7 @@ Database Administrator Summer Intern,Uhaul,"Phoenix, AZ"
 Intern – Data Engineer,US Foods,"Norridge, IL"
 Data Engineer Internship,Cambia Health Solutions,"Portland, OR"
 Product Data Management Intern,Otis,"Florence, SC"
+IT – Intern - MS365/Data Management,American Cancer Society,"<details><summary>**4 locations**</summary>Harrisburg, PA</br>Hartford, CT</br>NYC</br>Atlanta, GA</details>"
 Data Engineering Intern,Auctane,"Austin, TX"
 Data Intern,GP Fund Solutions,"Latham, NY"
 Internship - Data Engineer - Electronic Devices,Tesla,"Palo Alto, CA"
@@ -52,6 +51,7 @@ Data Analysis Intern - Sales,Hewlett Packard HP,"Houston, TX"
 Data Engineer Internship - Long/Short Equities,Point72,"London, UK"
 Database Engineering IT Summer Intern,,"Greensboro, NC"
 Intern – Data Engineering,NineDot Energy,"Brooklyn, NY"
+Data Engineering Intern,Trepp,"Dallas, TX"
 Intern – Technical Data Solutions,EVgo,LA
 Presort Data Product Engineering Intern - Summer 2025,Pitney Bowes,"Shelton, CT"
 Data and AI Engineer,Sanofi,"Cambridge, MA"
@@ -181,7 +181,6 @@ Data Science Analyst – Intern,Tatari,NYC
 Data Science Analyst – Intern,,LA
 Data Science Analyst – Intern,,SF
 Data Science Intern,Five9,"San Ramon, CA"
-Software Engineer – QA Analyst Intern,Genuine Parts Company,"Birmingham, AL"
 BTS Innovation Analyst Intern,The Federal Reserve System,"Atlanta, GA"
 Data Scientist Co-Op,Werfen,"Bedford, MA"
 Student / Internship Data Scientists,RELX,"London, UK"
@@ -265,6 +264,7 @@ Data Analytics MS Intern,Alo Yoga,"Culver City, CA"
 Data Science Product Manager Intern,Red Ventures,"Fort Mill, SC</br>Charlotte, NC"
 Data Science Internship,PrizePicks,Remote in USA
 Marketing and Data Analytics Intern - Global Corporate Specialty,Aviva,"Toronto, ON, Canada"
+Software Engineer – QA Analyst Intern,Genuine Parts Company,"Birmingham, AL"
 Monitor Data Analyst Intern,Ciena,"Ottawa, ON, Canada"
 Data Analyst Intern,Decisions,"Virginia Beach, VA"
 AI/ML Data Scientist Intern,DwyerOmega,"Valparaiso, IN"
@@ -323,7 +323,7 @@ Innotech Summer Undergraduate Internship 2025 - Aetna Tech - Data Scientist,CVS 
 Accounts Payable Data Analyst Intern,Daimler Truck,"Portland, OR"
 Intern - Process Data Scientist,Applied Materials,"Santa Clara, CA"
 Data Quality Research Analyst Intern,Precisely,Remote in USA
-Product Data Scientist Intern,,Remote in USA
+Product Data Scientist Intern,Precisely,Remote in USA
 Data Science Graduate Intern: Neuroinclusive Interview Process,CVS Health,"Needham, MA</br>NYC"
 Data Analytics Intern,Magna,"Troy, MI"
 Data Science Intern,SP Global,"Princeton, NJ</br>NYC"
@@ -550,7 +550,7 @@ Data Science Intern - Intelligence Automation,Crowdstrike,Remote in UK
 ML Data Engineering and Data Science Intern,Crowdstrike,Remote in USA</br>Remote in Canada
 Spectroscopy Data Scientist Intern,HRL Laboratories,"Malibu, CA"
 Tech Refresh/Data Analyst Intern,Leidos,"Alexandria, VA"
-ML Research Engineer Internship - Smollms pretraining and datasets,Hugging Face,Remote in USA
+ML Research Engineer Internship - Smollms pretraining and datasets,,Remote in USA
 2025 Intern - Data Science,Adobe,"San Jose, CA"
 Data Science Intern - Summer 2025 - Remote,Crowdstrike,Remote in UK
 2025 Sector Data Analyst Summer Intern,Schonfeld,NYC
