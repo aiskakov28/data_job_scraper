@@ -1,5 +1,5 @@
 internship,company,location
-Internship - Data Engineer - Applications Engineering,Tesla,"Fremont, CA"
+Internship - Data Engineer - Applications Engineering,,"Fremont, CA"
 Data Engineering Intern,Kalderos,"Boston, MA"
 IT – Intern - MS365/Data Management,American Cancer Society,"<details><summary>**4 locations**</summary>Harrisburg, PA</br>Hartford, CT</br>NYC</br>Atlanta, GA</details>"
 Data Engineer Intern,Primerica,"Duluth, GA"
@@ -168,7 +168,6 @@ Intern – Data Engineer,Corelogic,"Irvine, CA</br>Dallas, TX"
 Software Engineering Intern - Behavior Data Engine,Aurora Innovation,"Pittsburgh, PA"
 Data and AI Intern 🛂,IBM,"New York, NY"
 Intern - Competitive Intelligence Analyst,Salesforce,SF
-Data Science Intern,Applied Materials,"Santa Clara, CA"
 Asset Management Portfolio Analytics Data Analyst Intern/Co-op,TD Bank,"Toronto, ON, Canada"
 Data Analyst Intern,The Federal Reserve System,"Kansas City, MO"
 Graduate Carbon Analyst Intern,Sylvera,"London, UK"
@@ -197,6 +196,7 @@ Data Science Intern - Summer 2025,Lenovo,"Morrisville, NC"
 Data Science Co-Op,Live Ramp,SF
 Data Science & Machine Learning Intern,Insitro,"San Bruno, CA"
 Undergraduate Intern/Co-op - IT BI/Data Analyst,MKS Instruments,"Andover, MA</br>Austin, TX</br>Irvine, CA"
+Data Science Intern,Applied Materials,"Santa Clara, CA"
 Data Analytics Intern,BorgWarner,"Auburn Hills, MI"
 Software Engineering/Data Analytics Intern - Evernorth,Cigna Group,"St. Louis, MO"
 Data Science Intern,CS Wholesale Grocers,"Edison, NJ"
@@ -208,7 +208,7 @@ Data Analyst Intern,Skechers,"El Segundo, CA"
 Data Analyst Intern - Bank Analytics,USAA,"Plano, TX"
 2025 Intern – Supply Chain Data Analytics Intern,RTX,"Andover, MA"
 Data Analytics Intern,Assurant,"Lewisville, TX"
-Data Science Intern,MoneyLion,NYC
+Data Science Intern,,NYC
 Data Science Intern - Fpf,Socure,Remote in USA
 Data Science Intern,Boom Supersonic,"Centennial, CO"
 Data Science Intern,Pitney Bowes,"Shelton, CT"
