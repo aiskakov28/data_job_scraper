@@ -1,5 +1,5 @@
 title,company,location,url,application_url,date_posted
-Internship - Data Engineer - Applications Engineering,Tesla,"Fremont, CA",,https://www.tesla.com/careers/search/job/242313,2025-05-05
+Internship - Data Engineer - Applications Engineering,,"Fremont, CA",,https://www.tesla.com/careers/search/job/242313,2025-05-05
 Data Engineering Intern,Kalderos,"Boston, MA",,https://www.kalderos.com/company/job-board/,2025-05-05
 IT – Intern - MS365/Data Management,American Cancer Society,"<details><summary>**4 locations**</summary>Harrisburg, PA</br>Hartford, CT</br>NYC</br>Atlanta, GA</details>",,https://acs.wd5.myworkdayjobs.com/acscareers/job/GA-Atlanta/IT---MS365-Data-Management---Intern_JR2047,2025-05-05
 Data Engineer Intern,Primerica,"Duluth, GA",,https://primerica.wd1.myworkdayjobs.com/pri/job/Duluth-GA/Data-Engineer-Intern_R-179042025,2025-05-05
@@ -167,7 +167,6 @@ Data Engineering Intern,,"Boca Raton, FL",,,2025-05-05
 Intern – Data Engineer,Corelogic,"Irvine, CA</br>Dallas, TX",,,2025-05-05
 Software Engineering Intern - Behavior Data Engine,Aurora Innovation,"Pittsburgh, PA",,,2025-05-05
 Data and AI Intern 🛂,IBM,"New York, NY",,,2025-05-05
-Intern - Competitive Intelligence Analyst,Salesforce,SF,,https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Summer-2025-Intern---Competitive-Intelligence-Analyst_JR292979-1,2025-05-05
 Asset Management Portfolio Analytics Data Analyst Intern/Co-op,TD Bank,"Toronto, ON, Canada",,https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Asset-Management-Portfolio-Analytics-Data-Analyst-Intern-Co-op--Fall-2025-_R_1416196,2025-05-05
 Data Analyst Intern,The Federal Reserve System,"Kansas City, MO",,https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Data-Analyst-Intern---Summer-2025_R-0000029542,2025-05-05
 Graduate Carbon Analyst Intern,Sylvera,"London, UK",,https://jobs.lever.co/sylvera/e1df352f-8389-43ca-abac-8968a22e9494/apply,2025-05-05
@@ -196,6 +195,7 @@ Data Science Intern - Summer 2025,Lenovo,"Morrisville, NC",,https://jobs.lenovo.
 Data Science Co-Op,Live Ramp,SF,,https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Data-Science-Co-Op_JR011408,2025-05-05
 Data Science & Machine Learning Intern,Insitro,"San Bruno, CA",,https://job-boards.greenhouse.io/insitro/jobs/4426675006,2025-05-05
 Undergraduate Intern/Co-op - IT BI/Data Analyst,MKS Instruments,"Andover, MA</br>Austin, TX</br>Irvine, CA",,https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Andover-MA/XMLNAME-2025-Summer-Undergraduate-Intern-Co-op---IT-BI-Data-Analyst_R11629,2025-05-05
+Intern - Competitive Intelligence Analyst,Salesforce,SF,,,2025-05-05
 Data Science Intern,Applied Materials,"Santa Clara, CA",,,2025-05-05
 Data Analytics Intern,BorgWarner,"Auburn Hills, MI",,,2025-05-05
 Software Engineering/Data Analytics Intern - Evernorth,Cigna Group,"St. Louis, MO",,,2025-05-05
@@ -208,7 +208,7 @@ Data Analyst Intern,Skechers,"El Segundo, CA",,,2025-05-05
 Data Analyst Intern - Bank Analytics,USAA,"Plano, TX",,,2025-05-05
 2025 Intern – Supply Chain Data Analytics Intern,RTX,"Andover, MA",,,2025-05-05
 Data Analytics Intern,Assurant,"Lewisville, TX",,,2025-05-05
-Data Science Intern,MoneyLion,NYC,,,2025-05-05
+Data Science Intern,,NYC,,,2025-05-05
 Data Science Intern - Fpf,Socure,Remote in USA,,,2025-05-05
 Data Science Intern,Boom Supersonic,"Centennial, CO",,,2025-05-05
 Data Science Intern,Pitney Bowes,"Shelton, CT",,,2025-05-05
@@ -545,7 +545,7 @@ Data Science Intern - Intelligence Automation,Crowdstrike,Remote in UK,,,2025-05
 ML Data Engineering and Data Science Intern,Crowdstrike,Remote in USA</br>Remote in Canada,,,2025-05-05
 Spectroscopy Data Scientist Intern,HRL Laboratories,"Malibu, CA",,,2025-05-05
 Tech Refresh/Data Analyst Intern,Leidos,"Alexandria, VA",,,2025-05-05
-ML Research Engineer Internship - Smollms pretraining and datasets,Hugging Face,Remote in USA,,,2025-05-05
+ML Research Engineer Internship - Smollms pretraining and datasets,,Remote in USA,,,2025-05-05
 2025 Intern - Data Science,Adobe,"San Jose, CA",,,2025-05-05
 Data Science Intern - Summer 2025 - Remote,Crowdstrike,Remote in UK,,,2025-05-05
 2025 Sector Data Analyst Summer Intern,Schonfeld,NYC,,,2025-05-05
