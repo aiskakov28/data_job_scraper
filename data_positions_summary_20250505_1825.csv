@@ -1,7 +1,6 @@
 internship,company,location
-Internship - Data Engineer - Applications Engineering,,"Fremont, CA"
+Internship - Data Engineer - Applications Engineering,Tesla,"Fremont, CA"
 Data Engineering Intern,Kalderos,"Boston, MA"
-IT – Intern - MS365/Data Management,American Cancer Society,"<details><summary>**4 locations**</summary>Harrisburg, PA</br>Hartford, CT</br>NYC</br>Atlanta, GA</details>"
 Data Engineer Intern,Primerica,"Duluth, GA"
 Data Intern,Definitive Healthcare,"Framingham, MA"
 Data Intelligence Intern,Actian,Remote in USA
@@ -16,6 +15,7 @@ Database Administrator Summer Intern,Uhaul,"Phoenix, AZ"
 Intern – Data Engineer,US Foods,"Norridge, IL"
 Data Engineer Internship,Cambia Health Solutions,"Portland, OR"
 Product Data Management Intern,Otis,"Florence, SC"
+IT – Intern - MS365/Data Management,American Cancer Society,"<details><summary>**4 locations**</summary>Harrisburg, PA</br>Hartford, CT</br>NYC</br>Atlanta, GA</details>"
 Data Engineering Intern,Auctane,"Austin, TX"
 Data Intern,GP Fund Solutions,"Latham, NY"
 Internship - Data Engineer - Electronic Devices,Tesla,"Palo Alto, CA"
@@ -185,7 +185,6 @@ Student / Internship Data Scientists,RELX,"London, UK"
 Data Analytics Intern,Tencent,"Montreal, QC, Canada"
 Identity and Access Management (IAM) Analyst Intern,The Clorox Company,"Durham, NC, US"
 Supply Chain Data Analytics Intern,Magna,"Troy, MI"
-Summer Intern-Data Analyst,HARMAN International,"Novi, MI"
 "Software Analyst Intern - C, C++, Python",Hitachi Rail,"Toronto, Canada"
 Analytical Data Science – CMC Intern,Legend Biotech,"Somerset County, NJ"
 Data Science Intern,Weber Shandwick,"Washington, DC"
@@ -194,7 +193,6 @@ Summer Internship Program - Data & Analytics,Dun Bradstreet,"Jacksonville, FL"
 Data Science Intern - Summer 2025,Lenovo,"Morrisville, NC"
 Data Science Co-Op,Live Ramp,SF
 Data Science & Machine Learning Intern,Insitro,"San Bruno, CA"
-Undergraduate Intern/Co-op - IT BI/Data Analyst,MKS Instruments,"Andover, MA</br>Austin, TX</br>Irvine, CA"
 Intern - Competitive Intelligence Analyst,Salesforce,SF
 Data Science Intern,Applied Materials,"Santa Clara, CA"
 Data Analytics Intern,BorgWarner,"Auburn Hills, MI"
@@ -208,7 +206,7 @@ Data Analyst Intern,Skechers,"El Segundo, CA"
 Data Analyst Intern - Bank Analytics,USAA,"Plano, TX"
 2025 Intern – Supply Chain Data Analytics Intern,RTX,"Andover, MA"
 Data Analytics Intern,Assurant,"Lewisville, TX"
-Data Science Intern,,NYC
+Data Science Intern,MoneyLion,NYC
 Data Science Intern - Fpf,Socure,Remote in USA
 Data Science Intern,Boom Supersonic,"Centennial, CO"
 Data Science Intern,Pitney Bowes,"Shelton, CT"
@@ -316,7 +314,7 @@ Innotech Summer Undergraduate Internship 2025 - Aetna Tech - Data Scientist,CVS 
 Accounts Payable Data Analyst Intern,Daimler Truck,"Portland, OR"
 Intern - Process Data Scientist,Applied Materials,"Santa Clara, CA"
 Data Quality Research Analyst Intern,Precisely,Remote in USA
-Product Data Scientist Intern,,Remote in USA
+Product Data Scientist Intern,Precisely,Remote in USA
 Data Science Graduate Intern: Neuroinclusive Interview Process,CVS Health,"Needham, MA</br>NYC"
 Data Analytics Intern,Magna,"Troy, MI"
 Data Science Intern,SP Global,"Princeton, NJ</br>NYC"
@@ -329,6 +327,7 @@ Intern – Business/Data Analyst - Insurance Insights,Corelogic,"Dallas, TX"
 Restaurant Data Analyst Intern,7-Eleven,"Irving, TX"
 PLM Configuration Analyst Intern - Hsv MFG,Cadence Design Systems,"San Jose, CA"
 Machine Learning Scientist Intern,Cambia Health Solutions,Remote in USA
+Summer Intern-Data Analyst,HARMAN International,"Novi, MI"
 Intern – Data & Analytics Engineering,LiveRamp,Remote in USA
 Supply Chain Data Analytics Intern,Avnet,"Phoenix, AZ"
 Data Analytics Summer 2025 Internship,Jones Lang LaSalle JLL,"Chicago, IL"
@@ -541,6 +540,7 @@ Data Scientist/Product Analyst Intern,Splunk,"Boulder, CO"
 Data Science Graduate Intern/Co-op,,"Columbia, SC"
 Artificial Intelligence/Machine Learning/Data Science Engineering Intern,Zscaler,"San Jose, CA"
 Sales Operations Data Analytics Intern,FastSpring,Remote in USA
+Undergraduate Intern/Co-op - IT BI/Data Analyst,MKS Instruments,"Andover, MA</br>Austin, TX</br>Irvine, CA"
 Data Science Intern - Intelligence Automation,Crowdstrike,Remote in UK
 ML Data Engineering and Data Science Intern,Crowdstrike,Remote in USA</br>Remote in Canada
 Spectroscopy Data Scientist Intern,HRL Laboratories,"Malibu, CA"

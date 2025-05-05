@@ -1,7 +1,6 @@
 title,company,location,url,application_url,date_posted
-Internship - Data Engineer - Applications Engineering,,"Fremont, CA",,https://www.tesla.com/careers/search/job/242313,2025-05-05
+Internship - Data Engineer - Applications Engineering,Tesla,"Fremont, CA",,https://www.tesla.com/careers/search/job/242313,2025-05-05
 Data Engineering Intern,Kalderos,"Boston, MA",,https://www.kalderos.com/company/job-board/,2025-05-05
-IT – Intern - MS365/Data Management,American Cancer Society,"<details><summary>**4 locations**</summary>Harrisburg, PA</br>Hartford, CT</br>NYC</br>Atlanta, GA</details>",,https://acs.wd5.myworkdayjobs.com/acscareers/job/GA-Atlanta/IT---MS365-Data-Management---Intern_JR2047,2025-05-05
 Data Engineer Intern,Primerica,"Duluth, GA",,https://primerica.wd1.myworkdayjobs.com/pri/job/Duluth-GA/Data-Engineer-Intern_R-179042025,2025-05-05
 Data Intern,Definitive Healthcare,"Framingham, MA",,https://boards.greenhouse.io/definitivehc/jobs/5489192004,2025-05-05
 Data Intelligence Intern,Actian,Remote in USA,,https://jobs.lever.co/actian/676b38e2-cb45-44cd-9eb9-1be60c2bedf6/apply,2025-05-05
@@ -16,6 +15,7 @@ Database Administrator Summer Intern,Uhaul,"Phoenix, AZ",,,2025-05-05
 Intern – Data Engineer,US Foods,"Norridge, IL",,,2025-05-05
 Data Engineer Internship,Cambia Health Solutions,"Portland, OR",,,2025-05-05
 Product Data Management Intern,Otis,"Florence, SC",,,2025-05-05
+IT – Intern - MS365/Data Management,American Cancer Society,"<details><summary>**4 locations**</summary>Harrisburg, PA</br>Hartford, CT</br>NYC</br>Atlanta, GA</details>",,,2025-05-05
 Data Engineering Intern,Auctane,"Austin, TX",,,2025-05-05
 Data Intern,GP Fund Solutions,"Latham, NY",,,2025-05-05
 Internship - Data Engineer - Electronic Devices,Tesla,"Palo Alto, CA",,,2025-05-05
@@ -185,7 +185,6 @@ Student / Internship Data Scientists,RELX,"London, UK",,https://relx.wd3.myworkd
 Data Analytics Intern,Tencent,"Montreal, QC, Canada",,https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/Canada-Montreal/Data-Analytics-Intern_R104965,2025-05-05
 Identity and Access Management (IAM) Analyst Intern,The Clorox Company,"Durham, NC, US",,https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Durham-NC---USA-Strickland-Bldg/Identity-and-Access-Management--IAM--Analyst-Intern_18337-1,2025-05-05
 Supply Chain Data Analytics Intern,Magna,"Troy, MI",,https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Supply-Chain-Data-Analytics-Intern_R00168519,2025-05-05
-Summer Intern-Data Analyst,HARMAN International,"Novi, MI",,https://harman.wd3.myworkdayjobs.com/HARMAN/job/Novi---Michigan-USA---Cabot-Drive/Summer-Intern--Data-Analyst_R-42736-2025,2025-05-05
 "Software Analyst Intern - C, C++, Python",Hitachi Rail,"Toronto, Canada",,https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern---C--C----Python--4-or-8-months-_R1008436,2025-05-05
 Analytical Data Science – CMC Intern,Legend Biotech,"Somerset County, NJ",,https://job-boards.greenhouse.io/legendcareers/jobs/4531331005,2025-05-05
 Data Science Intern,Weber Shandwick,"Washington, DC",,https://www.webershandwick.com/work-at-weber/careers/,2025-05-05
@@ -194,7 +193,6 @@ Summer Internship Program - Data & Analytics,Dun Bradstreet,"Jacksonville, FL",,
 Data Science Intern - Summer 2025,Lenovo,"Morrisville, NC",,https://jobs.lenovo.com/en_US/careers/JobDetail?jobId=63353&utm_source=Simplify&ref=Simplify,2025-05-05
 Data Science Co-Op,Live Ramp,SF,,https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Data-Science-Co-Op_JR011408,2025-05-05
 Data Science & Machine Learning Intern,Insitro,"San Bruno, CA",,https://job-boards.greenhouse.io/insitro/jobs/4426675006,2025-05-05
-Undergraduate Intern/Co-op - IT BI/Data Analyst,MKS Instruments,"Andover, MA</br>Austin, TX</br>Irvine, CA",,https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Andover-MA/XMLNAME-2025-Summer-Undergraduate-Intern-Co-op---IT-BI-Data-Analyst_R11629,2025-05-05
 Intern - Competitive Intelligence Analyst,Salesforce,SF,,,2025-05-05
 Data Science Intern,Applied Materials,"Santa Clara, CA",,,2025-05-05
 Data Analytics Intern,BorgWarner,"Auburn Hills, MI",,,2025-05-05
@@ -208,7 +206,7 @@ Data Analyst Intern,Skechers,"El Segundo, CA",,,2025-05-05
 Data Analyst Intern - Bank Analytics,USAA,"Plano, TX",,,2025-05-05
 2025 Intern – Supply Chain Data Analytics Intern,RTX,"Andover, MA",,,2025-05-05
 Data Analytics Intern,Assurant,"Lewisville, TX",,,2025-05-05
-Data Science Intern,,NYC,,,2025-05-05
+Data Science Intern,MoneyLion,NYC,,,2025-05-05
 Data Science Intern - Fpf,Socure,Remote in USA,,,2025-05-05
 Data Science Intern,Boom Supersonic,"Centennial, CO",,,2025-05-05
 Data Science Intern,Pitney Bowes,"Shelton, CT",,,2025-05-05
@@ -316,7 +314,7 @@ Innotech Summer Undergraduate Internship 2025 - Aetna Tech - Data Scientist,CVS 
 Accounts Payable Data Analyst Intern,Daimler Truck,"Portland, OR",,,2025-05-05
 Intern - Process Data Scientist,Applied Materials,"Santa Clara, CA",,,2025-05-05
 Data Quality Research Analyst Intern,Precisely,Remote in USA,,,2025-05-05
-Product Data Scientist Intern,,Remote in USA,,,2025-05-05
+Product Data Scientist Intern,Precisely,Remote in USA,,,2025-05-05
 Data Science Graduate Intern: Neuroinclusive Interview Process,CVS Health,"Needham, MA</br>NYC",,,2025-05-05
 Data Analytics Intern,Magna,"Troy, MI",,,2025-05-05
 Data Science Intern,SP Global,"Princeton, NJ</br>NYC",,,2025-05-05
@@ -329,6 +327,7 @@ Intern – Business/Data Analyst - Insurance Insights,Corelogic,"Dallas, TX",,,2
 Restaurant Data Analyst Intern,7-Eleven,"Irving, TX",,,2025-05-05
 PLM Configuration Analyst Intern - Hsv MFG,Cadence Design Systems,"San Jose, CA",,,2025-05-05
 Machine Learning Scientist Intern,Cambia Health Solutions,Remote in USA,,,2025-05-05
+Summer Intern-Data Analyst,HARMAN International,"Novi, MI",,,2025-05-05
 Intern – Data & Analytics Engineering,LiveRamp,Remote in USA,,,2025-05-05
 Supply Chain Data Analytics Intern,Avnet,"Phoenix, AZ",,,2025-05-05
 Data Analytics Summer 2025 Internship,Jones Lang LaSalle JLL,"Chicago, IL",,,2025-05-05
@@ -541,6 +540,7 @@ Data Scientist/Product Analyst Intern,Splunk,"Boulder, CO",,,2025-05-05
 Data Science Graduate Intern/Co-op,,"Columbia, SC",,,2025-05-05
 Artificial Intelligence/Machine Learning/Data Science Engineering Intern,Zscaler,"San Jose, CA",,,2025-05-05
 Sales Operations Data Analytics Intern,FastSpring,Remote in USA,,,2025-05-05
+Undergraduate Intern/Co-op - IT BI/Data Analyst,MKS Instruments,"Andover, MA</br>Austin, TX</br>Irvine, CA",,,2025-05-05
 Data Science Intern - Intelligence Automation,Crowdstrike,Remote in UK,,,2025-05-05
 ML Data Engineering and Data Science Intern,Crowdstrike,Remote in USA</br>Remote in Canada,,,2025-05-05
 Spectroscopy Data Scientist Intern,HRL Laboratories,"Malibu, CA",,,2025-05-05
