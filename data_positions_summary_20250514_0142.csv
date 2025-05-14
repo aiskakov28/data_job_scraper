@@ -107,8 +107,6 @@ Asset Management Portfolio Analytics Data Analyst Intern/Co-op,TD Bank,"Toronto,
 Data Engineering Intern,Kalderos,"Boston, MA"
 Data Journalist/Data Science Intern,Diligent Corporation,NYC
 Data Engineer Intern,Primerica,"Duluth, GA"
-Data Science Intern,Five9,"San Ramon, CA"
-BTS Innovation Analyst Intern,The Federal Reserve System,"Atlanta, GA"
 Data Scientist Co-Op,Werfen,"Bedford, MA"
 Student / Internship Data Scientists,RELX,"London, UK"
 Identity and Access Management (IAM) Analyst Intern,The Clorox Company,"Durham, NC, US"
@@ -189,6 +187,7 @@ Data Analytics Intern,Veolia,"Moonachie, NJ"
 Data Science Intern,Block,"Oakland, CA"
 Indigenous Data Analytics Intern,Jones Lang LaSalle JLL,"Toronto, ON, Canada"
 Data Science Intern,Koppers,"Pittsburgh, PA"
+Data Science Intern,Five9,"San Ramon, CA"
 Intern – Data Science,BigHat Biosciences,"San Mateo, CA"
 Data Engineering Intern,Carters,"Atlanta, GA"
 Data Engineering Excellence Intern,Global Payments,"Charlotte, NC"
@@ -203,6 +202,7 @@ Marketing and Data Analytics Intern - Global Corporate Specialty,Aviva,"Toronto,
 Portfolio Data Engineering Intern,Addepar,"Edinburgh, UK"
 Software Engineer – QA Analyst Intern,Genuine Parts Company,"Birmingham, AL"
 Monitor Data Analyst Intern,Ciena,"Ottawa, ON, Canada"
+BTS Innovation Analyst Intern,The Federal Reserve System,"Atlanta, GA"
 Data Analyst Intern,Decisions,"Virginia Beach, VA"
 AI/ML Data Scientist Intern,DwyerOmega,"Valparaiso, IN"
 GBS Data Science Intern,United Parcel Service UPS,United States
@@ -599,7 +599,7 @@ Associate Data Scientist – Intern - Cybersecurity,Visa,"Ashburn, VA"
 2025 Intern - Emerging Technology Analyst,Adobe,"San Jose, CA"
 Data Science/ Computer Science Intern - Masters,Marvell,"Santa Clara, CA"
 "Information Systems, IT, Cyber Engineer & Data Science - Summer 2025 Intern (US Person Required) 🇺🇸",Honeywell,United States
-"Information Systems, IT, Cyber Engineer & Data Science - Summer 2025 Intern",Honeywell,Remote
+"Information Systems, IT, Cyber Engineer & Data Science - Summer 2025 Intern",,Remote
 2025 Summer Internship - Quantitative Analyst,Capstone Investment Advisors,"Boston, MA"
 Quantitative Analyst Intern,Mr Cooper,"Dallas, TX"
 Quant Analyst Internship,OptionMetrics,NYC
