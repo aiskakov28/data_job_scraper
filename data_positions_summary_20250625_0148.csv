@@ -1,7 +1,6 @@
 internship,company,location
 Software Engineer Intern - Recommendation Infra - Data-Arch-Tiktok US - 2025 Summer - BS/MS,ByteDance,"San Jose, CA"
 Data Marketing Engineer Intern,Gesture,NYC
-"Intern, AI Research Scientist",Autodesk,"Toronto, ON, CA"
 Software & Data Systems Co-Op,United Parcel Service UPS,United States
 Database Administrator Summer Intern,Uhaul,"Phoenix, AZ"
 Product Data Management Intern,Otis,"Florence, SC"
@@ -49,6 +48,7 @@ Vertex Summer 2025 Intern - Clinical Data Management & Metrics,Vertex Pharmaceut
 Signal Integrity and Data Analysis Engineer Intern,Lumentum,
 Summer Intern - Experiential R&D - Data Visualization,,"Novi, MI"
 Student Internship - Gensler Research Institute - Data,Gensler,NYC
+"Intern, AI Research Scientist",Autodesk,"Toronto, ON, CA"
 Data Strategy Software Engineering Co-op - College Program 2025,,NYC
 Data Center Infrastructure Intern,Ensono,Remote in USA
 Data Privacy Intern,Hewlett Packard HP,"Vancouver, WA"
@@ -104,11 +104,8 @@ Product and Data Research Intern - Summer 2025,Motorola,"Allen, TX"
 Software Engineering Intern - Behavior Data Engine,Aurora Innovation,"Pittsburgh, PA"
 Data and AI Intern 🛂,IBM,"New York, NY"
 Data Analytics Intern,Jabil,"Lexington, KY"
-Risk Data Science Intern,BILL,"San Jose, CA"
 Data Administration Intern,Daniel J Edelman Holdings,"Chicago, IL"
 Intern – Production Data Analytics,Harbinger Motors,"Westminster, CA"
-Intern – Data Analyst,Faraday Future,"West Athens, CA"
-Data Analytics Intern,Live Nation Entertainment,"Culver City, CA"
 Data Science Co-op,Kabam,"Vancouver, BC, Canada"
 R&D Data Scientist Intern,Envista,"Brea, CA"
 Data Science Engineer Intern T,Penumbra Inc,"Alameda, CA"
@@ -117,7 +114,10 @@ Data Scientist Intern - Tiktok Ads,ByteDance,"San Jose, CA"
 People Data Intern,Qualtrics,"Provo, UT"
 Education Data Analyst Intern,Alice L Walton School of Medicine,"Bentonville, AR"
 Education Data Analyst Intern,,"Bentonville, AR"
+Risk Data Science Intern,BILL,"San Jose, CA"
+Intern – Data Analyst,Faraday Future,"West Athens, CA"
 Data Analytics Intern,BorgWarner,"Auburn Hills, MI"
+Data Analytics Intern,Live Nation Entertainment,"Culver City, CA"
 Data Mining and Research Intern,Root,"Columbus, OH"
 Data Analyst Intern,Madhive,"Mountain View, CA"
 Data Governance Co-op,Allstate Insurance Company,"Toronto, ON, Canada"
@@ -415,7 +415,7 @@ Data Science Intern,QuantCo,"Boston, MA</br>London, UK</br>SF"
 Data Engineer Intern/Co-op,TD Bank,"Toronto, ON, Canada"
 Data Analyst Intern - Summer 2025,Warner Bros,"Atlanta, GA"
 Portfolio Analytics Data Analyst Intern / Co-Op,TD Bank,"Oakland, CA"
-Business Systems Analyst Intern/Co-op,,"Toronto, ON, Canada"
+Business Systems Analyst Intern/Co-op,TD Bank,"Toronto, ON, Canada"
 Business Systems Analyst Intern/Co-op,,"Toronto, ON, Canada"
 Intern – Data Science,Samsung,"San Jose, CA"
 Business Systems Analyst Intern/Co-op,TD Bank,"Toronto, ON, Canada"
